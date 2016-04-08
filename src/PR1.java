@@ -31,12 +31,12 @@ import javax.swing.event.ListSelectionListener;
  * Project 1: An application that displays a CSV file.
  * There are three views, table view, plot view and histogram view.
  *
- * @author Denis Gracanin
+ * @author 
  * @version 1
  */
 public class PR1 extends JFrame implements ActionListener, ChangeListener, ListSelectionListener {
 	private static final long serialVersionUID = 1L;
-	private final static String TITLE = "PR1: gracanin";
+	private final static String TITLE = "PR1";
 	private final static String HELP = "Project 1 version 1.";
 	private JMenuBar menuBar = null;
 	private JMenu fileMenu = null;
